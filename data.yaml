@@ -1,0 +1,10 @@
+
+path: 'C:\Users\Asus\OneDrive\Desktop\target\ml\BrainTumor\brain-tumor'
+train: train/images
+val: valid/images 
+test: 
+
+# Classes
+names:
+  0: negative
+  1: positive
